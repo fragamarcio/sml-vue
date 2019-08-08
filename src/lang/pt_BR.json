@@ -1,0 +1,40 @@
+{
+    "app": {
+        "title": "Smartleader",
+        "copyright": "Smartleader.© Todos os direitos reservados.",
+        "url": "www.smartleader.com.br",
+        "helpcenter": "Help Center",
+        "logout": "Sair",
+        "change-password": "Alterar Senha"
+
+    },
+    "strategy": {
+        "title": "Estratégia"
+    },
+    "setup": {
+        "title": "Setup do Cliente"
+    },
+    "home": {
+        "title": "Início"
+    },
+    "team": {
+        "title": "Equipe"
+    },
+    "goals": {
+        "title": "Metas"
+    },
+    "development": {
+        "title": "Desenvolvimento"
+    },
+    "feedback": {
+        "title": "Feedbacks"
+    },
+    "training": {
+        "title": "Treinamento"
+    },
+    "lang": {
+        "portuguese": "Português",
+        "english": "Inglês",
+        "spanish": "Espanhol"
+    }
+}

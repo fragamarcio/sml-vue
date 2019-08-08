@@ -1,0 +1,34 @@
+{
+    "app": {
+        "title": "Smartleader",
+        "copyright": "Smartleader.© All rights reserved.",
+        "url": "www.smartleader.com.br",
+        "helpcenter": "Help Center"
+    },
+    "strategy": {
+        "title": "Strategy"
+    },
+    "home": {
+        "title": "Home"
+    },
+    "team": {
+        "title": "Team"
+    },
+    "goals": {
+        "title": "Goals"
+    },
+    "development": {
+        "title": "Developments"
+    },
+    "feedback": {
+        "title": "Feedbacks"
+    },
+    "training": {
+        "title": "Training"
+    },
+    "lang": {
+        "portuguese": "Portuguese",
+        "english": "English",
+        "spanish": "Spanish"
+    }
+}
